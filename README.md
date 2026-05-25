@@ -165,6 +165,7 @@ General workflow tools, not code-specific.
 - **[grill-me](./skills/productivity/grill-me/SKILL.md)** — Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved.
 - **[handoff](./skills/productivity/handoff/SKILL.md)** — Compact the current conversation into a handoff document so another agent can continue the work.
 - **[write-a-skill](./skills/productivity/write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.
+- **[gripes-to-issues](./skills/productivity/gripes-to-issues/SKILL.md)** — Turn raw complaints, frustrations, or rough notes about a codebase or project into well-formed issues on GitHub, GitLab, or any other issue tracker.
 
 ### Misc
 
@@ -174,3 +175,4 @@ Tools I keep around but rarely use.
 - **[migrate-to-shoehorn](./skills/misc/migrate-to-shoehorn/SKILL.md)** — Migrate test files from `as` type assertions to @total-typescript/shoehorn.
 - **[scaffold-exercises](./skills/misc/scaffold-exercises/SKILL.md)** — Create exercise directory structures with sections, problems, solutions, and explainers.
 - **[setup-pre-commit](./skills/misc/setup-pre-commit/SKILL.md)** — Set up Husky pre-commit hooks with lint-staged, Prettier, type checking, and tests.
+- **[secret-guardrails-claude-code](./skills/misc/secret-guardrails-claude-code/SKILL.md)** — Set up Claude Code hooks to block Claude from reading secrets files and running secret-decryption commands.

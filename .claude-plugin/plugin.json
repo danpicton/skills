@@ -14,6 +14,8 @@
     "./skills/productivity/caveman",
     "./skills/productivity/grill-me",
     "./skills/productivity/handoff",
-    "./skills/productivity/write-a-skill"
+    "./skills/productivity/write-a-skill",
+    "./skills/productivity/gripes-to-issues",
+    "./skills/misc/secret-guardrails-claude-code"
   ]
 }
